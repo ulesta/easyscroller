@@ -1,6 +1,6 @@
 {
   "name": "easyscroller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mobile-friendly accelerated panning and zooming for DOM and Canvas based on Zynga Scroller.",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -8,6 +8,7 @@
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/ulesta/easyscroller",
   "keywords": [
     "scroller",
     "accelerated",
