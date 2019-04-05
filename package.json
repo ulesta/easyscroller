@@ -1,0 +1,38 @@
+{
+  "name": "easyscroller",
+  "version": "1.0.0",
+  "description": "Mobile-friendly accelerated panning and zooming for DOM and Canvas based on Zynga Scroller.",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "contributors": [
+    {
+      "name": "Justin Cuaresma",
+      "url": "http://cuaresma.me"
+    },
+    {
+      "name": "Andrew Joslin",
+      "url": "http://ajoslin.com"
+    },
+    {
+      "name": "Jared",
+      "url": "https://github.com/jedibatman"
+    },
+    {
+      "name": "Sebastian Werner",
+      "email": "swerner@zynga.com"
+    },
+    {
+      "name": "Paul Bakaus",
+      "url": "http://paulbakaus.com"
+    }
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.4.1"
+  }
+}
